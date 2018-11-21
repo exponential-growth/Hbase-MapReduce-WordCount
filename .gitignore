@@ -9,7 +9,6 @@ out
 gen
 
 /target/
-.gitignore
 .idea/workspace.xml
 src/test/
 target/
